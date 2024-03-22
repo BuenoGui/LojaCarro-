@@ -52,7 +52,7 @@ nav li a {
 .MenuBurguer span {
     height: 2px;
     width: 100%;
-    color: antiquewhite;
+    background-color: aliceblue;
     display: block;
     margin-bottom: 4px;
 }
